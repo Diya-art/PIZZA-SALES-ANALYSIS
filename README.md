@@ -6,7 +6,7 @@ Welcome to the Pizza Sales Analysis repository! This GitHub repository contains 
 
 The scripts provide analyses on:
 
--Orders placed
+-Orders placed <br>
 -Revenue generated
 -Distribution of orders by hour of the day
 -Category-wise distribution of pizzas ordered
