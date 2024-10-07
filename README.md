@@ -1,6 +1,6 @@
 # SQL-Project--PIZZA-SALES ANALYSIS
 
-**INTRODUCTION**
+## **INTRODUCTION**
 
 Welcome to the Pizza Sales Analysis repository! This GitHub repository contains SQL scripts designed to analyze pizza sales data, addressing various business requests to gain valuable insights into customer behavior and sales trends.
 
