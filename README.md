@@ -18,7 +18,7 @@ This project aims to help businesses understand how much pizza is sold, when ord
 
 
 ### **DATA SOURCES**
-The analysis is based on data for Pizza sales. The main datasets used include Order_deatils, orders, pizzas, and pizza_types. These datasets contain information about Pizza types, and orders placed.  
+The analysis is based on data for Pizza sales. The main datasets used include Order_details, orders, pizzas, and pizza_types. These datasets contain information about Pizza types and orders placed.  
 
 ### **PROJECT OVERVIEW**
 1. Analysed data for Pizza Sales.
